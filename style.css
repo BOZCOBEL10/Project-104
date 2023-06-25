@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(45deg, #f542c8 0%, #c842f5 50%, #7e42f5 100%);
+    color:white;
+}
+
+.heading{
+    width:80%;
+    font-size:25px;
+    color:#c842f5;
+    background-color: aqua;
+}
+
+#camera{
+    width:350px;
+    height:300px;
+    border: 2px ridge greenyellow;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy{
+    font-size:20px;
+    color:rgb(60, 255, 0);
+}
